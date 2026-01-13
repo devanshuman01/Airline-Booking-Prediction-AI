@@ -38,7 +38,7 @@ This project focuses on **predicting customer buying behavior** for an airline. 
     ```
 3.  Run the notebook:
     ```bash
-    jupyter notebook Booking_Model_Prediction.ipynb
+    jupyter notebook Booking_Prediction_Model.ipynb
     ```
 
 ---
