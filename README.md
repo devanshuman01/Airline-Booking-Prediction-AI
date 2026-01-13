@@ -25,6 +25,7 @@ This project focuses on **predicting customer buying behavior** for an airline. 
 ## 📈 Results
 * **Model Accuracy:** ~85% on test data.
 * **Key Insight:** Customers booking long-haul flights via specific routes showed a higher likelihood of completion.
+* ![Feature Importance Chart](feature_importance.png)
 
 ## 🚀 How to Run
 1.  Clone the repository:
