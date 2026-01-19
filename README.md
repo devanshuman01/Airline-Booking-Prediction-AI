@@ -30,7 +30,7 @@ This project focuses on **predicting customer buying behavior** for an airline. 
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/Airline-Booking-Prediction-AI.git](https://github.com/YOUR-USERNAME/Airline-Booking-Prediction-AI.git)
+    git clone https://github.com/devanshuman01/Airline-Booking-Prediction-AI
     ```
 2.  Install dependencies:
     ```bash
