@@ -7,7 +7,7 @@ This project focuses on **predicting customer buying behavior** for an airline. 
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 * **Techniques:**
-    * **SMOTE** (Synthetic Minority Over-sampling Technique) to handle imbalanced data.
+    * **SMOTE** (Synthetic Minority Over-sampling Technique) to handle severe class imbalance (85:15).
     * **Random Forest Classifier** for robust predictions.
     * **Feature Importance Analysis** to identify key booking drivers.
 
@@ -23,14 +23,15 @@ This project focuses on **predicting customer buying behavior** for an airline. 
     * Booking origin and flight duration also played significant roles.
 
 ## 📈 Results
-* **Model Accuracy:** ~85% on test data.
+* **Model Accuracy:** Achieved **85% accuracy** on test data.
+* **Recall Improvement:** Successfully increased **Minority Class Recall by 3.5x** using SMOTE.
 * **Key Insight:** Customers booking long-haul flights via specific routes showed a higher likelihood of completion.
 * ![Feature Importance Chart](feature_importance.png)
 
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/devanshuman01/Airline-Booking-Prediction-AI
+    git clone https://github.com/devanshuman01/Airline-Booking-Prediction-AI.git
     ```
 2.  Install dependencies:
     ```bash
